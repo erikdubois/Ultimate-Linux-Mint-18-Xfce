@@ -203,7 +203,16 @@ Also the older icon set can be installed via
 
 
 
-![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
+![Screenshots](http://i.imgur.com/AKz4Bgq.jpg)
+
+
+![Screenshots](http://i.imgur.com/KIrHRhh.jpg)
+
+
+![Screenshots](http://i.imgur.com/Jif81av.jpg)
+
+
+![Screenshots](http://i.imgur.com/82IFt3z.jpg)
 
 
 3. Aureola Conky
