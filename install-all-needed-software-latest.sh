@@ -79,10 +79,10 @@
 # sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y
 
 # repo for numix themes
-sudo add-apt-repository ppa:numix/ppa -y
+# sudo add-apt-repository ppa:numix/ppa -y
 
 # repo for boot-repair
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
+# sudo add-apt-repository -y ppa:yannubuntu/boot-repair
 
 
 ###############################################################################################
@@ -136,7 +136,10 @@ sudo apt-get install -y terminator thunar variety vlc vnstat winbind
 
 
 #software from extra repositories
-sudo apt-get install -y boot-repair plank 
+#sudo apt-get install -y boot-repair plank 
+
+sudo apt-get install -y plank 
+
 
 #software out of selection
 #sudo apt-get install -y  grub-customizer
@@ -144,7 +147,6 @@ sudo apt-get install -y boot-repair plank
 
 #operating specific software
 
-sudo apt-get install nemo-compare -y
 
 ###############################################################################################
 
@@ -154,9 +156,9 @@ sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip sharutils rar
 ###############################################################################################
 
 #themes
-sudo apt-get install numix-gtk-theme numix-icon-theme-circle -y
+#sudo apt-get install numix-gtk-theme numix-icon-theme-circle -y
 sudo apt-get install -y breeze-cursor-theme xcursor-themes
-sudo apt-get install vertex-theme -y
+#sudo apt-get install vertex-theme -y
 
 ###############################################################################################
 
