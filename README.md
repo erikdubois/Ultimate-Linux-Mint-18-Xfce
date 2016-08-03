@@ -60,23 +60,6 @@ Type in the terminal
 ![Screenshots](http://i.imgur.com/TM508XD.png)
 
 
-<b>Cinnamon</b>
-
-
-The very latest cinnamon version can be installed on your system.
-
-Run the script
-
-	- ./latest-cinnamon.sh
-
-The script will add a resource.
-
-	# sudo add-apt-repository -y ppa:gwendal-lebihan-dev/cinnamon-nightly
-	# sudo apt-get update 
-	# sudo apt-get install cinnamon -y
-
-
-
 <b>Nvidia</b>
 
 The last months I have no issues with the drivers coming from Linux. So I do NOT install the Nvidia drivers.
@@ -164,32 +147,6 @@ More documentation on http://erikdubois.be
 ![Screenshots](http://i.imgur.com/m8COELQ.png)
 
 
-Older examples on a previous version of Linux Mint.
-
-
-
-![Screenshots](http://i.imgur.com/l0Ecx5O.png) 
-
-
-![Screenshots](http://i.imgur.com/pv7bBsW.png) 
-
-
-![Screenshots](http://i.imgur.com/pNDgmJ7.png) 
-
-
-![Screenshots](http://i.imgur.com/g6mccId.png) 
-
-
-![Screenshots](http://i.imgur.com/jtToMq7.png) 
-
-
-![Screenshots](http://i.imgur.com/s5GY5gG.png) 
-
-
-![Screenshots](http://i.imgur.com/KlTeQK7.png) 
-
-
-![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
 
 
 
@@ -217,9 +174,35 @@ Also the older icon set can be installed via
 ![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
 
 
+3. Aureola Conky
+---------------
+
+This is an exercise in writing conky configurations in lua syntax.
+
+At https://github.com/erikdubois/Aureola you can check out these conky's.
+
+![Screenshots](http://i.imgur.com/y92Jrp4.png)
 
 
-3. Aurora Conky
+![Screenshots](http://i.imgur.com/97Q8RO1.jpg)
+
+
+![Screenshots](http://i.imgur.com/K5yYqEa.png)
+
+
+![Screenshots](http://i.imgur.com/9CxuMRZ.png)
+
+
+![Screenshots](http://i.imgur.com/VgD9SqN.png)
+
+
+![Screenshots](http://i.imgur.com/NebHweL.png)
+
+
+![Screenshots](http://i.imgur.com/r7C2W2E.png)
+
+
+4. Aurora Conky
 ---------------
 	
 
@@ -268,32 +251,6 @@ This github script is explained more in depth on my website.
 http://erikdubois.be/
 
 
-4. Aureola Conky
----------------
-
-This is an exercise in writing conky configurations in lua syntax.
-
-At https://github.com/erikdubois/Aureola you can check out these conky's.
-
-![Screenshots](http://i.imgur.com/y92Jrp4.png)
-
-
-![Screenshots](http://i.imgur.com/97Q8RO1.jpg)
-
-
-![Screenshots](http://i.imgur.com/K5yYqEa.png)
-
-
-![Screenshots](http://i.imgur.com/9CxuMRZ.png)
-
-
-![Screenshots](http://i.imgur.com/VgD9SqN.png)
-
-
-![Screenshots](http://i.imgur.com/NebHweL.png)
-
-
-![Screenshots](http://i.imgur.com/r7C2W2E.png)
 
 
 
@@ -336,109 +293,6 @@ Add application and choose plank or do it the old way and point to /usr/bin/plan
 A tutorial has been written here : 
 
 http://erikdubois.be/install-plank-linux-mint-17-3-set-preferences-add-themes-autostart/
-
-
-
-
-7. Folder nemo-scripts
----------------------------
-
-Check out in Nemo (filemanager or explorer in windows)
-
-	Edit/Plugins
-
-There you can post actions and plugins in the hidden folders.
-
-Move the content of the folder config_apps/nemo-scripts-plugins to the hidden folder 
-
-	~/.local/share/nemo/scripts
-
-and change to your liking. These are quick fixes and one backup script to a Backup folder.
-
-Or just follow the youtube movie to get more details about 3 scripts I have kept over the years.
-
-![Screenshots](http://i.imgur.com/ody9WJO.jpg)
-
-
-[![How to add scripts to nemo](http://i.imgur.com/8lFcYuP.jpg)](https://www.youtube.com/watch?v=JCxxs7IzUbs "How to add scripts to nemo - Click to Watch!")
-
-
-
-
-8. Themes and Icons
------------------
-
-The most fun goes in changing the look of your system. 
-
-I have gathered a lot of themes, icons and cursors I like and bundled them here.
-
-https://github.com/erikdubois/themes-icons-pack
-
-
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png)
-
-
-
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/9drRjAL.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/FacEzmD.jpg)
-
-
-
-
-9. Mscore fonts
---------------------
-If you miss the microsoft fonts ... Verdana, Courrier, Comic, Arial, ...
-Use TAB and ENTER to install it.
-
-sudo apt-get install ttf-mscorefonts-installer -y
-
-Use TAB and ARROWS to navigate and ENTER to conclude.
-
-
-
-
-
-10. The matrix
-----------------
-
-Matrix (screen with green letters as seen in the movie)
-
-sudo apt-get install cmatrix
-
-Try 
-
-	cmatrix -b
-
-![Screenshots](http://i.imgur.com/oKGiyzP.jpg)
-
-
-
-11.Shutter
------------
-
-Shutter is a program to make screenshots to post on websites.
-There is also a very handy export function to different image hosting sites like imgur.com
-
-In the program keyboard you can add a custom shortcut to take a picture like 
-
-printscreen or prtsc
-
-This should be the code to take a picture that will be named like this : 
-
-screenshot_25_01_2016_18:32:46.jpg
-
-
-	shutter -f -e -o '~/Pictures/screenshot_%d_%m_%Y_%T.jpg'
-
-
-![Screenshots](http://i.imgur.com/gZFHwzG.png)
 
 
 
