@@ -4,20 +4,30 @@ Let us first take a screenshot of the initial look of Linux Mint 18 Xfce
 
 ![Screenshots](http://i.imgur.com/XxmMw8M.jpg)
 
+First make sure your system is up-to-date.
 
-Ofcourse you can change the theme. I like the mint-y-dark theme which I will use in the later screenshots.
+
+![Screenshots](http://i.imgur.com/9uTz8Nl.jpg)
 
 
-![Screenshots](http://i.imgur.com/TzllSMo.png)
+Ofcourse you can change the theme. I like the mint-y-dark theme but for now I will be using the arc-dark theme.
+You can find that theme here : 
+
+https://github.com/horst3180/Arc-theme
+
+or you install it via the script. It is a darker theme.
+
+
+![Screenshots](http://i.imgur.com/TOvgmEH.jpg)
 
 
 This is my way of working when installing a new operating system.
 
-First upgrade kernel, nvidia and cinnamon/nemo.
+First upgrade kernel and nvidia.
 If everything is still working we can install the software and start customizing the system.
 
 
-#1 Kernel, cinnamon and nvidia
+#1 Kernel and nvidia
 
 As described at http://erikdubois.be/ I try to get the latest of everything. This attitude tends to break things. You have been warned. But the best way to learn about linux.
 
