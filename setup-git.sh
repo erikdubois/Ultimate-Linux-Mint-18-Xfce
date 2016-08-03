@@ -98,7 +98,7 @@ git config --global push.default simple
 
 
 
-git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18-Xfce.git
+#git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18-Xfce.git
 
 
 echo " ALL  D O N E !"
