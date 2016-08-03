@@ -1,8 +1,8 @@
 # Ultimate Linux Mint 18 XFCE
 
-Let us first take a screenshot of the initial look of Linux Mint 18 Cinnamon
+Let us first take a screenshot of the initial look of Linux Mint 18 Xfce
 
-![Screenshots](http://i.imgur.com/dJo2Ryg.png)
+![Screenshots](http://i.imgur.com/XxmMw8M.jpg)
 
 
 Ofcourse you can change the theme. I like the mint-y-dark theme which I will use in the later screenshots.
