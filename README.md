@@ -57,7 +57,7 @@ Type in the terminal
 	- ./update-to-the-last-stable-4.x.x-latest.sh 
 
 
-![Screenshots](http://i.imgur.com/TM508XD.png)
+
 
 
 <b>Nvidia</b>
@@ -136,15 +136,47 @@ Some Examples!
 More documentation on http://erikdubois.be
 
 
-![Screenshots](http://i.imgur.com/zEuHycm.png)
+![Screenshots](http://i.imgur.com/53ywYjG.png)
 
 
 
-![Screenshots](http://i.imgur.com/zHK5zhf.png)
+![Screenshots](http://i.imgur.com/QzA5cNX.jpg)
 
 
 
-![Screenshots](http://i.imgur.com/m8COELQ.png)
+![Screenshots](http://i.imgur.com/5KaMAWU.jpg)
+
+
+
+![Screenshots](http://i.imgur.com/HCgq4Zf.jpg)
+
+
+
+![Screenshots](http://i.imgur.com/ybecrVy.jpg)
+
+
+![Screenshots](http://i.imgur.com/hv5IhS7.jpg)
+
+
+![Screenshots](http://i.imgur.com/oMs10Bk.jpg)
+
+
+![Screenshots](http://i.imgur.com/XvJPkFe.jpg)
+
+
+![Screenshots](http://i.imgur.com/91qaVvG.jpg)
+
+
+![Screenshots](http://i.imgur.com/Z0ve0Tw.jpg)
+
+
+![Screenshots](http://i.imgur.com/DCSz7s2.jpg)
+
+
+![Screenshots](http://i.imgur.com/5aLIjAg.jpg)
+
+
+![Screenshots](http://i.imgur.com/YC0ADJJ.jpg)
 
 
 
