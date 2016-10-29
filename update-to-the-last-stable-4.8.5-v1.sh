@@ -102,9 +102,9 @@ echo "Let us check if your computer is up-to-date"
 # keep in mind that nvidia or ati drivers sometimes clash with the kernel
 # read the latest article on these matters at http://erikdubois.be
  
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.6.3-yakkety/linux-headers-4.6.3-040603-generic_4.6.3-040603.201606241434_amd64.deb
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.6.3-yakkety/linux-headers-4.6.3-040603_4.6.3-040603.201606241434_all.deb
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.6.3-yakkety/linux-image-4.6.3-040603-generic_4.6.3-040603.201606241434_amd64.deb
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.8.5/linux-headers-4.8.5-040805-generic_4.8.5-040805.201610280434_amd64.deb
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.8.5/linux-headers-4.8.5-040805_4.8.5-040805.201610280434_all.deb
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.8.5/linux-image-4.8.5-040805-generic_4.8.5-040805.201610280434_amd64.deb
 
 sudo dpkg -i linux*
 
