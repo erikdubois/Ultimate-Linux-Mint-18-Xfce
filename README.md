@@ -23,11 +23,12 @@ or you install it via the script. It is a dark blueish theme.
 
 This is my way of working when installing a new operating system.
 
-First upgrade kernel and nvidia.
+First upgrade the kernel.
+
 If everything is still working we can install the software and start customizing the system.
 
 
-#1 Kernel and nvidia
+#1 Kernel (and nvidia)
 
 As described at http://erikdubois.be/ I try to get the latest of everything. This attitude tends to break things. You have been warned. But the best way to learn about linux.
 
