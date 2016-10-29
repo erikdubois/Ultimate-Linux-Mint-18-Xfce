@@ -21,12 +21,6 @@
 #
 #
 ##################################################################################################################
-#
-# Current project : Ultimate-Linux-Mint-18
-#
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
-#
-##################################################################################################################
 # Written to be used on 64 bits computers
 # Author 	: 	Erik Dubois
 # Website 	: 	http://www.erikdubois.be
@@ -54,25 +48,18 @@
 # Check out the github - many more scripts for automatic installation of Linux Systems.
 #
 #
-#
-#
-#
-##################################################################################################################
-# If the option -y has been added. It will autoinstall all. Omit if you do not want that.
-##################################################################################################################
-#
-#
-#
-#
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
 
+sudo apt-get install dconf-cli -y
+dconf dump /org/cinnamon/desktop/keybindings/ > all-cinnamon-desktop-keybindings.dconf
+#dconf dump /org/nemo/ > nemo.dconf
+#dconf dump /org/gtk/ > gtk.dconf
+#dconf dump /org/gnome/ > gnome.dconf
 
-# watch movie : https://www.youtube.com/watch?v=3pRe0owQI74
+echo "all done"
 
-dropbox stop 
-sleep 5
-dropbox start
+sleep 1
