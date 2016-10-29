@@ -38,7 +38,7 @@ I have written a script to automate my installations.
 
 <b>KERNEL</b>
 
-	- ./update-to-the-last-stable-4.x.x-latest.sh 
+	- ./update-to-the-last-stable-4.x.x-vx.sh 
 
 Do not forget to type "./" in front of the name.
 
@@ -48,7 +48,7 @@ Go inside the folder and right-click <b>in a blank space</b> to go to the termin
 Type in the terminal
 
 	
-	- ./update-to-the-last-stable-4.x.x-latest.sh 
+	- ./update-to-the-last-stable-4.x.x-vx.sh 
 
 
 More info about kernels can be found here : 
@@ -184,7 +184,7 @@ This icon theme is based on an older one i.e. yltra flat also on github.
 
 This is an exercise in changing the directories from scalable/... to 22x22/...
 
-Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
+Surfn will be updated not the Yltra Flat icon set.
 
 
 For ease of installation I use the script
