@@ -15,7 +15,7 @@ You can find that theme here :
 
 https://github.com/horst3180/Arc-theme
 
-or you install it via the script. It is a darker theme.
+or you install it via the script. It is a dark blueish theme.
 
 
 ![Screenshots](http://i.imgur.com/TOvgmEH.jpg)
