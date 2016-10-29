@@ -98,7 +98,7 @@ sudo apt-get install -y plank
 
 #operating specific software
 
-sudo apt-get install nemo-compare -y
+#sudo apt-get install nemo-compare -y
 
 ###############################################################################################
 
