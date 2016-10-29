@@ -37,14 +37,7 @@ I have written a script to automate my installations.
 
 <b>KERNEL</b>
 
-You have a choice. 
-
-	- kernel 3.x
-	- kernel 4.x
-
-I choose to install the latter.
-
-	- ./update-to-the-last-stable-4.6.3-latest.sh 
+	- ./update-to-the-last-stable-4.x.x-latest.sh 
 
 Do not forget to type "./" in front of the name.
 
@@ -57,7 +50,9 @@ Type in the terminal
 	- ./update-to-the-last-stable-4.x.x-latest.sh 
 
 
+More info about kernels can be found here : 
 
+http://erikdubois.be/things-to-do-after-installing-linux-mint-18-xfce/
 
 
 <b>Nvidia</b>
@@ -68,7 +63,7 @@ HAVE NOT TESTED THIS FOR A WHILE
 
 Nvidia drivers will <b>NOT</b> be installed as they are very specific to your hardware. But checkout the code.
 
-You can normally install nvidia drivers without any other source.
+You can normally install nvidia drivers without any other source. You can use the driver manager application as well.
 
 Try typing this in the terminal
 
@@ -113,7 +108,7 @@ The best of them
 
 
 
-[![Ultimate Linux Mint Update](http://i.imgur.com/qmOOZ8G.jpg)](https://www.youtube.com/watch?v=5xHy96K14Dk "Ultimate Linux Mint Update - Click to Watch!")
+More info about this script can be found here : http://erikdubois.be/things-to-do-after-installing-linux-mint-18-xfce/
 
 
 #3 Extra's
@@ -128,28 +123,26 @@ http://sourceforge.net/projects/sardi/
 
 For ease of installation I use the script
 
-	- icons-sardi-latest.sh
+	- icons-sardi-vx.sh
+
+New examples can be found here : 
+
+http://erikdubois.be/things-to-do-after-installing-linux-mint-18-xfce/
 
 
-
-Some Examples!
-More documentation on http://erikdubois.be
+Some older examples!
 
 
 ![Screenshots](http://i.imgur.com/53ywYjG.png)
 
 
-
 ![Screenshots](http://i.imgur.com/QzA5cNX.jpg)
-
 
 
 ![Screenshots](http://i.imgur.com/5KaMAWU.jpg)
 
 
-
 ![Screenshots](http://i.imgur.com/HCgq4Zf.jpg)
-
 
 
 ![Screenshots](http://i.imgur.com/ybecrVy.jpg)
@@ -183,7 +176,7 @@ More documentation on http://erikdubois.be
 
 
 
-2. Super Ultra Flat Numix Remix
+2. Surfn
 --------------------------------- 
 
 This icon theme is based on an older one i.e. yltra flat also on github.
@@ -195,12 +188,9 @@ Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
 
 For ease of installation I use the script
 
-	- icons-super-ultra-flat-numix-latest.sh
+	- icons-surfn-vx.sh
 
-Also the older icon set can be installed via
-
-	-icons-yltra-flat-latest.sh
-
+Older examples
 
 
 ![Screenshots](http://i.imgur.com/AKz4Bgq.jpg)
@@ -215,12 +205,13 @@ Also the older icon set can be installed via
 ![Screenshots](http://i.imgur.com/82IFt3z.jpg)
 
 
+
 3. Aureola Conky
 ---------------
 
 This is an exercise in writing conky configurations in lua syntax.
 
-At https://github.com/erikdubois/Aureola you can check out these conky's.
+At http://erikdubois.be/category/linux/aureola/ you can check out these conky's.
 
 ![Screenshots](http://i.imgur.com/y92Jrp4.png)
 
@@ -243,59 +234,11 @@ At https://github.com/erikdubois/Aureola you can check out these conky's.
 ![Screenshots](http://i.imgur.com/r7C2W2E.png)
 
 
-4. Aurora Conky
----------------
-	
-
-Aurora is a collection of conky's I like. 
-
-Download it from http://sourceforge.net/projects/auroraconkytheme/.
-
-Installation is described at 
-
-http://erikdubois.be/category/linux/aurora-conky/
-
-In this downloadfolder you will find an <b>installationscript</b> as well i.e. Auto_LinuxMint_Rebecca_cinnamon_aurora.sh
-
-
-But basically unpack the zip file. Make the hidden folder .conky (if it does not exist yet) and place the folder aurora in there.
-
-Install conky-manager that will make life easy.
-
-	sudo add-apt-repository -y ppa:teejee2008/ppa
-	sudo apt-get update
-	sudo apt-get install conky-manager
-
-Start up conky-manager and choose the conky to your liking.
-
-
-
-You should arrive at something similar depending on theme and icons choices: 
-
-
-![Screenshots](http://i.imgur.com/YAyQOjw.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/Yyfslr1.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/B5cPnMK.jpg)
-
-
-
-Then you take the script apart and you write your own code.
-
-This github script is explained more in depth on my website.
-
-http://erikdubois.be/
 
 
 
 
-
-5. ZSH and Oh-my-sh
+4. ZSH and Oh-my-sh
 -----------------------
 I like bash but I prefer zsh with lots of different theme to spice things up. So let us install that in the script.
 
@@ -304,7 +247,7 @@ Everytime a surprise. Because of the 'random'. Read on.
 
 ![Screenshots](http://i.imgur.com/NUc55XO.png)
 
-./install-zsh-latest.sh
+./install-zsh-vx.sh
 
 Normally you need to go and find that hidden file .zshrc (CTRL+H) and edit it. You should change it into ZSH_THEME="random".
 
@@ -333,7 +276,7 @@ Add application and choose plank or do it the old way and point to /usr/bin/plan
 
 A tutorial has been written here : 
 
-http://erikdubois.be/install-plank-linux-mint-17-3-set-preferences-add-themes-autostart/
+http://erikdubois.be/category/linux/plank/
 
 
 
